@@ -12,4 +12,4 @@ Read through the script so you can see what I've used as some sane defaults. Edi
 I'm the principal developer, although I've had a little bit of help from others.
 
 ## Support or Contact
-Having trouble with my Minecrafty script? Check out the documentation at https://github.com/brickviking/minecrafty/wiki for further details.
+Having trouble with my Minecrafty script? Check out [the wiki documentation](https://github.com/brickviking/minecrafty/wiki) for further details.
